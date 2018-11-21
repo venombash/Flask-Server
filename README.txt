@@ -7,5 +7,6 @@ venombash@gmail.com
 To run open the Terminal(cmd whatever) and type in
 cd flask
 python3 main.py
+if on linux use the launcher
 
 enjoy!
